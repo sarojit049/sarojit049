@@ -1,5 +1,5 @@
 # 💫 About Me:
-Technology student with a strong foundation<br>in web development and database<br>management.<br>Proven ability to multitask and adapt to<br>changing environments.<br>Committed to leveraging technical skills to<br>support innovative projects and achieve<br>successful outcomes.<br>EDUCATION AND TRAINING<br>Bachelor of Technology<br>Mckv Institute of Engineering<br>08/2027 | Kolkata, west Bengal<br>Information Technology, Expected in 08/202Web development and technologies<br>Database management<br>html css java script mysql github
+Technology student with a strong foundation<br>in web development and database<br>management.<br>Proven ability to multitask and adapt to<br>changing environments.<br>Committed to leveraging technical skills to<br>support innovative projects and achieve<br>successful outcomes.
 
 
 ## 🌐 Socials:
