@@ -1,5 +1,27 @@
 # 💫 About Me:
-Technology student with a strong foundation<br>in web development and database<br>management.<br>Proven ability to multitask and adapt to<br>changing environments.<br>Committed to leveraging technical skills to<br>support innovative projects and achieve<br>successful outcomes.
+# Hi, I'm Saroj 👋
+
+🚀 Full-Stack Web Developer | Open Source Contributor (OSCG 2026)  
+⚡ ECWoC 2026 Participant | Hackathon Builder  
+
+## 💡 What I Do
+- Build MVPs for hackathons & demos
+- Contribute to open-source projects
+- Turn ideas into working web products fast
+
+## 🛠 Tech Stack
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Firebase
+- Tools: Git, GitHub, VS Code
+
+## 🏆 Interests
+- Hackathons
+- Open Source
+- Startup-style MVP building
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/saroj-kumar-017948314/
+
 
 
 ## 🌐 Socials:
